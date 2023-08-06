@@ -1,4 +1,4 @@
-# Project Name
+# Unit tests with JUnit 4 for Version class
 
 This project has been created to demonstrate how to use JUnit 4 for testing a 'Version' Java class with unit tests.
 
